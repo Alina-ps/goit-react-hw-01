@@ -1,0 +1,38 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 6px;
+  width: 70px;
+  color: black;
+}
+
+.img {
+  margin-bottom: 10px;
+  width: 60px;
+  height: 60px;
+}
+
+.name {
+  font-weight: 60px;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 0;
+}
+
+.status {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.green {
+  color: rgb(48, 204, 48);
+}
+
+.red {
+  color: red;
+}

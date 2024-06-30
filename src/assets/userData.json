@@ -1,4 +1,4 @@
-const userData = {
+{
   "username": "Jacques Gluke",
   "tag": "jgluke",
   "location": "Ocho Rios, Jamaica",
@@ -6,6 +6,6 @@ const userData = {
   "stats": {
     "followers": 5603,
     "views": 4827,
-    "likes": 1308,
-  },
-};
+    "likes": 1308
+  }
+}
